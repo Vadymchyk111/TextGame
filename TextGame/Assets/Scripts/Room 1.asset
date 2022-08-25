@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13f9849d2517c4e4ea5e338dc0b21e5c, type: 3}
-  m_Name: EndStory
+  m_Name: Room 1
   m_EditorClassIdentifier: 
   story: It's end of story
